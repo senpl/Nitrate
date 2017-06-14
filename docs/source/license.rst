@@ -3,4 +3,4 @@
 License
 =======
 
-.. TODO
+GPL-2.0
